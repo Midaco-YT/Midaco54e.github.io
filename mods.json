@@ -5,7 +5,21 @@
 		    "downloadURL": "https://micdoodle8.com/new-builds/GC-1.12/280/Galacticraft-Planets-1.12.2-4.0.2.280.jar"
 		    "sha1": ""
 		    "sizes": 
-	    }
+	    },
+		
+	    {
+		    "name": "GalacticraftCore-1.12.2-4.0.2.280"
+		    "downloadURL": "https://micdoodle8.com/new-builds/GC-1.12/280/GalacticraftCore-1.12.2-4.0.2.280.jar"
+		    "sha1": ""
+		    "sizes": 
+	    },
+		
+            {
+		    "name": "MicdoodleCore-1.12.2-4.0.1.2"
+		    "downloadURL": "https://micdoodle8.com/new-builds/GC-1.12/2/MicdoodleCore-1.12.2-4.0.1.2.jar"
+		    "sha1": ""
+		    "sizes": 
+	    },
 			
 	]
 }
