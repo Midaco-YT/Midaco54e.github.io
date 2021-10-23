@@ -1,17 +1,308 @@
 {
 	"curseFiles": [
 		{
-			//IronChest
 			"projectID": 228756,
 			"fileID": 2747935
-		}
+		},
+
+		{
+			"projectID": 318833,
+			"fileID": 2961524
+		},
+
+		{
+            "projectID": 248787,
+            "fileID": 2987247
+		},
+
+		{
+            "projectID": 223794,
+            "fileID": 2747063
+        },
+
+		{
+            "projectID": 318833,
+            "fileID": 2961524
+        },
+
+        {
+            "projectID": 60092,
+            "fileID": 2683101
+        },
+
+        {
+            "projectID": 59143,
+        	"fileID": 2554237
+        },
+
+        {   "projectID": 227083,
+        	"fileID": 2518667
+        },
+
+        {
+            "projectID": 310303,
+            "fileID": 3089030
+        },
+
+        {
+            "projectID": 229876,
+            "fileID": 2483393
+        },
+
+        {
+            "projectID": 228027,
+        	"fileID": 2574880
+        },
+
+        {
+            "projectID": 220318,
+            "fileID": 2842510
+        },
+
+        {
+            "projectID": 225643,
+        	"fileID": 3330934
+        },
+
+        {
+            "projectID": 231382,
+            "fileID": 3408276
+        },
+
+        {
+            "projectID": 230497,
+            "fileID": 2450900
+        },
+
+        {
+            "projectID": 235279,
+            "fileID": 2915375
+        },
+
+        {
+            "projectID": 242818,
+            "fileID": 2779848
+        },
+
+        {
+            "projectID": 248994,
+            "fileID": 2560552
+        },
+
+        {
+            "projectID": 267602,
+            "fileID": 2915363
+        },
+
+        {
+            "projectID": 272335,
+            "fileID": 2645867
+        },
+
+        {
+            "projectID": 278799,
+            "fileID": 2833002
+        },
+
+        {
+            "projectID": 310586,
+            "fileID": 2710099
+        },
+
+        {
+            "projectID": 223565,
+            "fileID": 3431261
+        },
+
+        {
+            "projectID": 231868,
+            "fileID": 2972849
+        },
+
+        {
+            "projectID": 64578,
+            "fileID": 3328811
+        },
+
+        {
+            "projectID": 245174,
+            "fileID": 2755787
+        },
+
+        {
+            "projectID": 299540,
+            "fileID": 2706111
+        },
+
+        {
+            "projectID": 2463272,
+            "fileID": 2961524
+        },
+
+        {
+            "projectID": 278494,
+            "fileID": 3327893
+        },
+
+        {
+            "projectID": 244844,
+            "fileID": 3137504
+        },
+
+        {
+            "projectID": 55438,
+            "fileID": 2749993
+        },
+
+        {
+            "projectID": 238551,
+            "fileID": 2744766
+        },
+
+        {
+            "projectID": 315423,
+            "fileID": 2732022
+        },
+
+        {
+            "projectID": 238222,
+            "fileID": 3043174
+        },
+
+        {
+            "projectID": 32274,
+            "fileID": 2916002
+        },
+
+        {
+            "projectID": 223896,
+            "fileID": 2680892
+        },
+
+        {
+            "projectID": 223891,
+            "fileID": 2526674
+        },
+            "projectID": 74924,
+            "fileID": 2713386
+        {
+            "projectID": 233105,
+            "fileID": 2745846
+        },
+            "projectID": 268560,
+            "fileID": 2835175
+        {
+
+        },
+            "projectID": 268566,
+            "fileID": 2835177
+        {
+
+        },
+            "projectID": 60089,
+            "fileID": 3359843
+        {
+
+        },
+            "projectID": 256247,
+            "fileID": 2704832
+        {
+
+        },
+
+        {
+            "projectID": 246640,
+            "fileID": 2704562
+        },
+
+        {
+            "projectID": 282745,
+            "fileID": 2519727
+        },
+
+        {
+            "projectID": 238372,
+            "fileID": 2595310
+        },
+
+        {
+            "projectID": 228816,
+            "fileID": 2699056
+        },
+
+        {
+            "projectID": 228815,
+            "fileID": 2699055
+        },
+
+        {
+            "projectID": 250898,
+            "fileID": 2794895
+        },
+
+        {
+            "projectID": 270789,
+            "fileID": 2920436
+        },
+
+        {
+            "projectID": 297680,
+            "fileID": 3499324
+        },
+
+        {
+            "projectID": 224641,
+            "fileID": 2861573
+        },
+
+        {
+            "projectID": 226136,
+            "fileID": 2629840
+        },
+
+        {
+
+        },
+            "projectID": 226138,
+            "fileID": 2629842
+        {
+
+        },
+            "projectID": 246974,
+            "fileID": 3050838
+        {
+
+        },
+            "projectID": 268094,
+            "fileID": 2655943
+        {
+
+        },
+            "projectID": 223852,
+            			"fileID": 2952606
+        {
+
+        {
+            "projectID": 74072,
+           	"fileID": 2902483
+        },
+
+        {
+            "projectID": 245755,
+            "fileID": 2859589
+        },
+
+        {
+            "projectID": 253449,
+            "fileID": 2568751
+        },
+    }
+
+
+
 	],
 	"mods": [
 		{
-			"name": "JourneyMap",
-			"downloadURL": "https://minecrouft.000webhostapp.com/mods/journeymap.jar",
-			"sha1": "3da4323f71bcadcf140002a9f49578f0cd5ce8a8",
-			"size": 6990968
 		}
 	]
 }
