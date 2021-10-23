@@ -8,10 +8,10 @@
 	],
 	"mods": [
 		{
-			"name": "",
-			"downloadURL": "",
-			"sha1": "",
-			"size":
+			"name": "JourneyMap",
+			"downloadURL": "https://minecrouft.000webhostapp.com/mods/journeymap.jar",
+			"sha1": "3da4323f71bcadcf140002a9f49578f0cd5ce8a8",
+			"size": 6990968
 		}
 	]
 }
