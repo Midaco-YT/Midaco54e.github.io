@@ -303,10 +303,24 @@
 	],
 	"mods": [
 		{
-			"name": "JourneyMap",
+			"name": "Galacticraft-Planets-1.12.2-4.0.2.280",
 			"downloadURL": "https://minecrouft.000webhostapp.com/mods/journeymap.jar",
-			"sha1": "3da4323f71bcadcf140002a9f49578f0cd5ce8a8",
-			"size": 6990968
+			"sha1": "327c7efe184f43b091788e15cbbee5409fabf79b",
+			"size": 3975978
+		},
+		
+		{
+			"name": "GalacticraftCore-1.12.2-4.0.2.280",
+			"downloadURL": "https://minecrouft.000webhostapp.com/mods/journeymap.jar",
+			"sha1": "7e15210ac47a4c96454fe664bc927ce3b95097dd",
+			"size": 10610662
+		},
+		
+		{
+			"name": "MicdoodleCore-1.12.2-4.0.2.280",
+			"downloadURL": "https://minecrouft.000webhostapp.com/mods/journeymap.jar",
+			"sha1": "906b6088c54a428d7a383796e7b77283cca7e573",
+			"size": 53300
 		}
 	]
 }
