@@ -298,29 +298,22 @@
         	{
             		"projectID": 253449,
             		"fileID": 2568751
+        	},
+		
+		{
+            		"projectID": 539609,
+            		"fileID": 3501457
+        	},
+		
+		{
+            		"projectID": 539611,
+            		"fileID": 3501464
+        	},
+		
+		{
+            		"projectID": 539612,
+            		"fileID": 3501466
         	}
 
 	],
-	"mods": [
-		{
-			"name": "Galacticraft-Planets-1.12.2-4.0.2.280",
-			"downloadURL": "https://midaco54e.github.io/mods/Galacticraft-Planets-1.12.2-4.0.2.280.jar",
-			"sha1": "327c7efe184f43b091788e15cbbee5409fabf79b",
-			"size": 3975978
-		},
-		
-		{
-			"name": "GalacticraftCore-1.12.2-4.0.2.280",
-			"downloadURL": "https://midaco54e.github.io/mods/GalacticraftCore-1.12.2-4.0.2.280.jar",
-			"sha1": "7e15210ac47a4c96454fe664bc927ce3b95097dd",
-			"size": 10610662
-		},
-		
-		{
-			"name": "MicdoodleCore-1.12.2-4.0.2.280",
-			"downloadURL": "https://midaco54e.github.io/mods/MicdoodleCore-1.12.2-4.0.2.280.jar",
-			"sha1": "906b6088c54a428d7a383796e7b77283cca7e573",
-			"size": 53300
-		}
-	]
 }
