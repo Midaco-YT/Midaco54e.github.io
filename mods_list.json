@@ -1,6 +1,6 @@
 {
-	"curseFiles": [
-                
+    "curseFiles": [
+
             {//IronChest
                 "projectID":228756,
                     "fileID":2747935
@@ -108,7 +108,7 @@
                 "projectID":310586,
                     "fileID":2710099
             }
-            
+
             { //Draconic-Evolution
                 "projectID":223565,
                     "fileID":3431261
@@ -296,7 +296,8 @@
                 "projectID":253449,
                     "fileID":2568751
             }
-}
+        }
+
 	],
 	"mods": [
 		{
