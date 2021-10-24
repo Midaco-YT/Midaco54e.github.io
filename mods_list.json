@@ -318,11 +318,6 @@
 		{
             		"projectID": 230976,
             		"fileID": 2463272
-        	},
-		
-		{
-            		"projectID": 268094,
-            		"fileID": 2655943
         	}
 	],
 	"mods": [
@@ -331,6 +326,13 @@
 			"downloadURL": "https://micdoodle8.com/new-builds/GC-1.12/280/Galacticraft-Planets-1.12.2-4.0.2.280.jar",
 			"sha1": "",
 			"size": 3975978
+		},
+		
+		{
+			"name": "spectrite-1.7.1",
+			"downloadURL": "https://media.forgecdn.net/files/2655/943/spectrite-1.7.1.jar",
+			"sha1": "",
+			"size": 10852782
 		},
 		
 		{
